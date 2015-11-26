@@ -1,0 +1,12 @@
+/build/
+<<<<<<< HEAD
+<<<<<<< HEAD
+/dist/
+=======
+/dist/
+/nbproject/private/
+>>>>>>> origin/master
+=======
+/dist/
+/nbproject/private/
+>>>>>>> origin/master
